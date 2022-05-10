@@ -2,6 +2,8 @@
 
 Before opening this project, a 4.24 or higher version (5.0.0 not included) Unreal Engine 4 source is required.
 
+For faster installing, engine can also be downloaded from Epic Games Launcher.
+
 Here’s the github link to access the project:
 https://github.com/KyleZZZZZ/AI_Car
 
