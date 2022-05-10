@@ -1,0 +1,2 @@
+When Unreal Engine Editor is opened. Press "Play".
+When playing, press F8 to use observation mode.
