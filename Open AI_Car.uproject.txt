@@ -1,2 +1,8 @@
-When Unreal Engine Editor is opened. Press "Play".
-When playing, press F8 to use observation mode.
+Before opening this project, a 4.24 or higher version (5.0.0 not included) Unreal Engine 4 source is required.
+
+Here’s the github link to access the project:
+https://github.com/KyleZZZZZ/AI_Car
+
+Open “.uproject” file then Unreal Engine Editor is opened. Press “Play” to start the training process.
+
+When playing, press “F8” to eject. Hold right mouse button and move around the mouse to look around. Use “WASD” to move the developer camera.
